@@ -1,16 +1,28 @@
-# draggable_and_drag_target_in_flutter
+# Exploring Three Approaches to Implement Dragging in Flutter
 
-Draggable and Drag Target in Flutter examples
+Flutter provides several ways to implement dragging functionality, each with unique characteristics and use cases. Let's explore three examples: DragDropExample, DragTimer, and DragContainer, which demonstrate different approaches to handling drag interactions.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Examples
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div  style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                <a href="https://medium.com/@sivakarthikayan.cs/">
+                    <img src="https://raw.githubusercontent.com/sivakarthikayan-cs/draggable_and_drag_target_in_flutter/master/assets/gif/drag_and_drop.gif" width="201"/>
+                </a>
+            </td>            
+            <td style="text-align: center">
+                <a href="https://medium.com/@sivakarthikayan.cs/">
+                    <img src="https://github.com/sivakarthikayan-cs/draggable_and_drag_target_in_flutter/blob/master/assets/gif/drag_timer.gif?raw=true" width="200"/>
+                </a>
+            </td>
+            <td style="text-align: center">
+                <a href="https://medium.com/@sivakarthikayan.cs/">
+                    <img src="https://github.com/sivakarthikayan-cs/draggable_and_drag_target_in_flutter/blob/master/assets/gif/drag_container.gif?raw=true" width="200" />
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
